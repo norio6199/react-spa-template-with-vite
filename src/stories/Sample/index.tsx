@@ -12,6 +12,7 @@ const _Sample = ({ className, children }: Props) => {
   return (
     <div className={className} css={style.root}>
       {children}
+      hogehoge
     </div>
   );
 };
